@@ -61,9 +61,6 @@ Run the application:
 streamlit run app.py
 ```
 
-## 📸 Screenshots
-
-Add screenshots of the chatbot interface here.
 
 ## 👩‍💻 Author
 
